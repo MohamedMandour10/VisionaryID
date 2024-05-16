@@ -97,6 +97,17 @@ If there is an error (e.g., camera not connected), an error message will be disp
 
 ## Demo
 
+1. Offline Mode
+
+
+https://github.com/MohamedMandour10/VisionaryID/assets/115044826/b2c8e541-eb96-4b79-9419-1e5f5be7d489
+
+2. Real Time Mode
+   
+
+
+https://github.com/MohamedMandour10/VisionaryID/assets/115044826/e553cc26-2c62-4730-9081-370c14b567b8
+
 
 ## Installation
 
